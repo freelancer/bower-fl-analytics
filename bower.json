@@ -1,0 +1,19 @@
+{
+  "name": "fl-analytics",
+  "version": "1.46.6",
+  "authors": [
+    "Laurent Goudet <laurent@freelancer.com>"
+  ],
+  "description": "Analytics module based on Google Tag Manager",
+  "main": [
+    "analytics.js",
+    "directive/flAnalytics.js"
+  ],
+  "dependencies": {
+    "fl-cookies": "https://github.com/freelancer/bower-fl-cookie.git",
+    "angular-md5": "~0.1.8"
+  },
+  "license": "Freelancer",
+  "homepage": "https://gitlab.freelancer.com/angular/fl-angular",
+  "private": true
+}
